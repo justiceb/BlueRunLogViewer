@@ -98,8 +98,9 @@
             <Architecture>windows_x64</Architecture>
             <AutoIncrementVersion>Build</AutoIncrementVersion>
             <BuildStatus z:Id="i15">
-                <FileName />
-                <Version>none</Version>
+                <BuildEverSuccessful>true</BuildEverSuccessful>
+                <FileName>blue-run-log-viewer_2.0.0.1_windows_x64.nipkg</FileName>
+                <Version>2.0.0.1</Version>
             </BuildStatus>
             <CompanyName>MyCompany</CompanyName>
             <CustomExecutes>
@@ -146,7 +147,7 @@
             </CustomExecutes>
             <Description>Install viewer app and registry key for filename association</Description>
             <DisplayName>Blue RunLog Viewer</DisplayName>
-            <FileName>blue-run-log-viewer_1.0.0.0_windows_x64.nipkg</FileName>
+            <FileName>blue-run-log-viewer_2.0.0.2_windows_x64.nipkg</FileName>
             <Homepage>https://github.com/justiceb/BlueRunLogViewer</Homepage>
             <MaintainerEmail>brent.o.justice@gmail.com</MaintainerEmail>
             <MaintainerName>Blue Origin</MaintainerName>
@@ -158,7 +159,7 @@
             <Section>Application Software</Section>
             <StoreProduct>true</StoreProduct>
             <Synopsis>Front end for *.lvrlog file format</Synopsis>
-            <Version>1.0.0.0</Version>
+            <Version>2.0.0.2</Version>
         </Distribution>
     </Distributions>
     <Feeds />

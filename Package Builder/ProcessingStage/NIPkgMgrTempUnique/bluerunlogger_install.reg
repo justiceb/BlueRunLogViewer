@@ -8,4 +8,4 @@ Windows Registry Editor Version 5.00
 @"Open"
 
 [HKEY_CLASSES_ROOT\LVRunLog\shell\open\command]
-@="\"C:\\Program Files\\Blue Run Log Viewer\\Blue Run Log Viewer.exe\" \"%1\""
+@="\"C:\\Program Files\\Blue Run Log Viewer\\Blue RunLog Viewer.exe\" \"%1\""
