@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.lvrlog]
+@"LVRunLog"
+""="LVRunLog"
+
+[HKEY_CLASSES_ROOT\LVRunLog\shell]
+@"Open"
+
+[HKEY_CLASSES_ROOT\LVRunLog\shell\open\command]
+@="\"C:\\Program Files\\Blue Run Log Viewer\\Blue Run Log Viewer.exe\" \"%1\""

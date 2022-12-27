@@ -1,0 +1,14 @@
+Architecture: windows_x64
+Built-Using: nipkg
+Description: Front end for *.lvrlog file format
+  Install viewer app and registry key for filename association
+Homepage: https://github.com/justiceb/BlueRunLogViewer
+Maintainer: Blue Origin <brent.o.justice@gmail.com>
+Package: blue-run-log-viewer
+Section: Application Software
+Version: 1.0.0.0
+XB-DisplayName: Blue RunLog Viewer
+XB-Plugin: file
+XB-StoreProduct: yes
+XB-UserVisible: yes
+XB-VisibleForRuntimeDeployment: yes
