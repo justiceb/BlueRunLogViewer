@@ -1,12 +1,13 @@
 Architecture: windows_x64
 Built-Using: nipkg
+Depends: ni-labview-2020-runtime-engine (=20.1.1.49157-0+f5)
 Description: Front end for *.lvrlog file format
   Install viewer app and registry key for filename association
 Homepage: https://github.com/justiceb/BlueRunLogViewer
 Maintainer: Blue Origin <brent.o.justice@gmail.com>
 Package: blue-run-log-viewer
 Section: Application Software
-Version: 2.0.0.1
+Version: 2.0.0.2
 XB-DisplayName: Blue RunLog Viewer
 XB-Plugin: file
 XB-StoreProduct: yes
